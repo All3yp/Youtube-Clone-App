@@ -17,6 +17,7 @@
 		187B23A924DB3BAD00F18621 /* Video.swift in Sources */ = {isa = PBXBuildFile; fileRef = 187B23A824DB3BAD00F18621 /* Video.swift */; };
 		187B23AB24DB3D7300F18621 /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = 187B23AA24DB3D7300F18621 /* Model.swift */; };
 		187B23AD24DCA39C00F18621 /* Response.swift in Sources */ = {isa = PBXBuildFile; fileRef = 187B23AC24DCA39C00F18621 /* Response.swift */; };
+		187B23AF24DDD20C00F18621 /* ConstantsTemplate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 187B23AE24DDD20C00F18621 /* ConstantsTemplate.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		187B23A824DB3BAD00F18621 /* Video.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Video.swift; sourceTree = "<group>"; };
 		187B23AA24DB3D7300F18621 /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
 		187B23AC24DCA39C00F18621 /* Response.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Response.swift; sourceTree = "<group>"; };
+		187B23AE24DDD20C00F18621 /* ConstantsTemplate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConstantsTemplate.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +74,7 @@
 				187B239D24DB129200F18621 /* LaunchScreen.storyboard */,
 				187B23A024DB129200F18621 /* Info.plist */,
 				187B23A624DB39CA00F18621 /* Constants.swift */,
+				187B23AE24DDD20C00F18621 /* ConstantsTemplate.swift */,
 				187B23A824DB3BAD00F18621 /* Video.swift */,
 				187B23AA24DB3D7300F18621 /* Model.swift */,
 				187B23AC24DCA39C00F18621 /* Response.swift */,
@@ -153,6 +156,7 @@
 				187B239724DB129100F18621 /* ViewController.swift in Sources */,
 				187B239324DB129100F18621 /* AppDelegate.swift in Sources */,
 				187B239524DB129100F18621 /* SceneDelegate.swift in Sources */,
+				187B23AF24DDD20C00F18621 /* ConstantsTemplate.swift in Sources */,
 				187B23AB24DB3D7300F18621 /* Model.swift in Sources */,
 				187B23A724DB39CA00F18621 /* Constants.swift in Sources */,
 				187B23A924DB3BAD00F18621 /* Video.swift in Sources */,
