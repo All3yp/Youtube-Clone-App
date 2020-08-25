@@ -3,8 +3,9 @@
 
  Study project implemented based on the [Code With Chris tutorial](https://www.youtube.com/c/CodeWithChris/)
 ---
-![Video Demo](Demo.gif)
+![Video Demo](Demo.mov)
 ---
 ## Modeling
+
 ![YoutubeApp](YouTubeApp.png)
 
